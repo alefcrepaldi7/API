@@ -6,7 +6,7 @@ Esta aplicação consiste em uma **API RESTful** desenvolvida em **Node.js** com
 ---
 
 ## 2. Especificações Tecnológicas
-* **Ambiente de Execução:** Node.js (v20.x ou superior)
+* **Ambiente de Execução:** Node.js (v24.14.0)
 * **Framework Web:** Express.js
 * **Gerenciador de Processos:** Nodemon
 * **Protocolo de Comunicação:** HTTP/1.1
